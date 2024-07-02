@@ -48,8 +48,7 @@ By the end of this project, you will have a fully functional web application wit
 
 ## File Structure
 
-```
-your-project-name/
+Application/
 ├── backend/
 │   ├── controllers/
 │   │   └── userController.js
@@ -90,7 +89,6 @@ your-project-name/
 │   └── package.json
 ├── .gitignore
 └── README.md
-```
 
 ### Explanation of the File Structure
 
